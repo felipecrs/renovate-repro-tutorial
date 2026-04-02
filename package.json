@@ -1,13 +1,13 @@
 {
   "name": "renovate_tutorial",
   "version": "0.0.1",
-  "description": "A simple package json for Renovate tutorial use only",
+  "description": "A simple package json for Renovate tutorial use onlys",
   "author": "Philip",
   "license": "Apache-2.0",
   "dependencies": {
     "commander": "14.0.3",
     "lodash": "4.17.20",
-    "@date-io/date-fns": "2.10.0",
-    "@date-io/moment": "2.10.0"
+    "@date-io/date-fns": "3.2.1",
+    "@date-io/moment": "3.2.0"
   }
 }
